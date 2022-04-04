@@ -1,7 +1,7 @@
 function main(){
     // Only change code below this line
 
-    var myFirstString = "I think therefore I \"am\" -- sentinent.";
+    var myFirstString = "I think therefore I \"am\" -- sentient.";
     var mySecondString = "No, you only \"think\", so you aren't.";
     
 
